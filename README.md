@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-Electrical, Software, and AI/ML Engineer enthusiast with industry experience in power systems, embedded development, and data-driven optimization. Passionate about leveraging technology to solve complex real-world problems.
+Electrical, Software, and AI/ML engineering enthusiast with industry experience in power systems, embedded development, and data-driven optimization. Passionate about leveraging technology to solve complex real-world problems.
 
 ---
 
