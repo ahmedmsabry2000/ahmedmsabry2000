@@ -9,7 +9,7 @@ Electrical, Software, and AI/ML engineering enthusiast with industry experience 
 ## 🎓 Education
 
 **The University of Texas at Austin**  
-*Master in Data Science* — *Expected Dec 2026*
+*Master in Data Science* — *Expected Dec 2025*
 
 **The University of British Columbia**  
 *BASc in Electrical Engineering* — *Graduated Jun 2022*  
